@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Daniel Bumbuc
 
-<!--
-**DanielBumbuc/DanielBumbuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer from Germany.
 
-Here are some ideas to get you started:
+Currently completing a professional software development program while working full-time. Passionate about web development, automation, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+* TypeScript
+* Angular
+
+### 🎯 Goals
+
+* Build modern web applications
+* Expand into backend development
+* Contribute to Open Source
+
+---
+
+*"Always learning, always building."*
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DanielBumbuc)](https://github.com/stats-organization/github-stats-extended)
